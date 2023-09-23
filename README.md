@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NirajPandey30
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning data scientist
+- 💞️ I’m looking to collaborate on any data analysis project
